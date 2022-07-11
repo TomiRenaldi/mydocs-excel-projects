@@ -1,10 +1,9 @@
 import './App.css'
+import Letter from './component/Letter.jsx'
 
 function App() {
   return (
-    <h1 className="text-5xl font-bold">
-      Hello world!
-    </h1>
+    <Letter/>
   )
 }
 
