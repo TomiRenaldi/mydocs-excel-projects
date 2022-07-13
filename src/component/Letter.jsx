@@ -9,12 +9,26 @@ const Letter = React.Component = () => {
                     <img className='h-8' src="/assets/text-mash.svg" alt="MyDocsExcelProjects"/>
                 </div>
                 <div class="mt-7 prose prose-slate mx-auto lg:prose-lg">
-                    <p class="lead">Until now, trying to style an article, document, or blog post with Tailwind has been a tedious task that required a keen eye for typography and a lot of complex custom CSS.</p>
-                    <p>By default, Tailwind removes all of the default browser styling from paragraphs, headings, lists and more. This ends up being really useful for building application UIs because you spend less time undoing user-agent styles, but when you <em>really are</em> just trying to style some content that came from a rich-text editor in a CMS or a markdown file, it can be surprising and unintuitive.</p>
-                    <p>We get lots of complaints about it actually, with people regularly asking us things like:</p>
+                    <p class="lead">Sampai saat ini Microsoft Excel adalah alat yang sangat membantu dalam pengelolaan data kompleks maupun sederhana, karena anda sudah tidak asing dengan Excel, saya tidak akan bercerita banyak.</p>
+                    <p>Secara spesifik saya menulis ini, membagikan pengalaman mengenai proyek excel yang mungkin anda temukan di perusahaan. Semua yang saya tulis tidak sebagai rekomendasi khusus bagi anda. Berdasarkan pertanyaan yang menjadi hantu bagi sebagian orang mengenai proyek excel di perusahaan seperti:</p>
                     <blockquote>
-                        <p>Why is Tailwind removing the default styles on my <code>h1</code> elements? How do I disable this? What do you mean I lose all the other base styles too?</p>
+                        <p>Proyek excel apa yang akan saya temukan di perusahaan?, Apa yang harus saya pelajari terlebih dahulu di excel?</p>
                     </blockquote>
+                    <p>Apa yang akan anda temukan di perusahaan, contoh seperti:</p>
+                    <ol>
+                        <li>Daftar gaji <em>(Payroll)</em>.</li>
+                        <p>Pertama, jika anda mempunyai karyawan dan mencoba membayar karyawan anda, melacak waktu kerja mereka, lembur mereka. Jadi itulah yang anda lakukan dalam proyek itu.</p>
+                        <li>Buku Nilai <em>(Gradebook)</em>.</li>
+                        <p>Kedua, menyiapkan buku nilai, menghitung persentase, anda akan menemukan siapa yang ada di puncak kelas dan siapa yang tidak.</p>
+                        <li>Faktor Keputusan <em>(Decision Factors)</em>.</li>
+                        <p>Ketiga, anda juga akan memiliki program pemfaktoran pohon keputusan, anda dapat memutuskan karir berdasarkan pilihan anda atau mungkin permintaan bos anda.</p>
+                        <li>Database Penjualan <em>(Sales Database)</em>.</li>
+                        <p>Keempat, jadi anda akan diberikan banyak data dan anda akan mengurutkan untuk menentukan, siapa penjualan terbaik komisi mereka, dan membuat beberapa bagan.</p>
+                        <li>Inventaris <em>(Inventory)</em>.</li>
+                        <p>Terakhir, proyek inventaris, sebutlah inventaris mobil sebagai contoh, dimana anda akan membuat, apa yang disebut basis data, anda akan memiliki data dalam jumlah besar, anda akan menggabungkan sebuah bidang, cara memisahkan bidang tersebut, dan cara membuat laporan dengan proyek itu.</p>
+                    </ol>
+
+                    <p>Jadi anda akan banyak permintaan untuk mengelola data yang besar pada perusahaan, dari kelima masalah tersebut <em>mempelajari terlebih dahulu</em> adalah kata terbaik sebelum masuk kedalam perusahaan, agar anda dapat bekerja dengan baik.</p>
                 </div>
             </div>
         </div>
